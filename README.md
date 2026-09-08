@@ -58,9 +58,9 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/AidanaAK12/bnlp-defaultscore/blob/main/README.md)
    cd ИМЯ_РЕПОЗИТОРИЯ
-   ```
+   bnlp-defaultscore
 
 2. Установите необходимые библиотеки:
    ```bash
